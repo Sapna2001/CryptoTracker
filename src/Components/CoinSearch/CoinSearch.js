@@ -17,7 +17,7 @@ function CoinSearch() {
     <>
       <div className="coinSearchCointainer">
         <div className="coinSearch">
-          <h1 className="coinText">Search a currency</h1>
+          <h1 className="coinText">Search for a Coin</h1>
           <form>
             <input
               type="text"
