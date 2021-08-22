@@ -19,5 +19,7 @@
 
 ![Mobile View](https://user-images.githubusercontent.com/56690856/130368156-af6121ea-6236-49bb-94a9-8ab69685afcf.png)
 
+### Feel free to star this repository ⭐
+
 
 
