@@ -17,7 +17,7 @@
 # Screenshots
 ### Desktop View
 
-![Mobile View](https://user-images.githubusercontent.com/56690856/130368104-446f82a4-6ce4-4a44-8193-02b68b35752f.png)
+![Desktop View](https://user-images.githubusercontent.com/56690856/130368104-446f82a4-6ce4-4a44-8193-02b68b35752f.png)
 
 ### Tablet View
 
