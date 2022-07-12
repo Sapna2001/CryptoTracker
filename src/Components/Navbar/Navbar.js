@@ -1,14 +1,13 @@
 import React from "react";
-import "./Navbar.css"
+import "./Navbar.css";
 
 function App() {
-
   return (
-   <>
-    <div className = "appHeader">
+    <>
+      <div className="appHeader">
         <h2>CryptoTracker</h2>
-    </div>
-   </>
+      </div>
+    </>
   );
 }
 

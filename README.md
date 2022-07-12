@@ -27,6 +27,9 @@
 
 ![Mobile View](https://user-images.githubusercontent.com/56690856/130368156-af6121ea-6236-49bb-94a9-8ab69685afcf.png)
 
+# Read Blog
+[Check out the blog on medium](https://medium.com/nerd-for-tech/cryptotracker-using-react-61236abaab77)
+
 ### Feel free to star this repository ⭐
 
 

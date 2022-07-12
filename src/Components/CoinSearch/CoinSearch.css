@@ -25,7 +25,7 @@
 @media screen and (max-width: 720px) {
   .coinText {
     font-size: 1.6rem;
-  }  
+  }
   .coinInput {
     font-size: 1rem;
   }
@@ -34,15 +34,15 @@
 @media screen and (max-width: 600px) {
   .coinText {
     font-size: 1.2rem;
-  }  
+  }
 }
 
 @media screen and (max-width: 540px) {
   .coinText {
     font-size: 1.6rem;
     text-align: center;
-    margin-right:0;
-  } 
+    margin-right: 0;
+  }
   .coinSearch {
     display: flex;
     flex-direction: column;

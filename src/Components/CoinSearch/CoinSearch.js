@@ -2,7 +2,6 @@ import React, { useState, createContext } from "react";
 import CoinTable from "../CoinTable/CoinTable";
 import "./CoinSearch.css";
 
-
 const coinPassed = createContext();
 
 function CoinSearch() {
@@ -10,7 +9,6 @@ function CoinSearch() {
 
   const handleChange = (event) => {
     setSearch(event.target.value);
-    // console.log(event.target.value);
   };
 
   return (
@@ -27,9 +25,9 @@ function CoinSearch() {
             />
           </form>
         </div>
-        <coinPassed.Provider value = {search}> 
-          <CoinTable/> 
-        </coinPassed.Provider> 
+        <coinPassed.Provider value={search}>
+          <CoinTable />
+        </coinPassed.Provider>
       </div>
     </>
   );
